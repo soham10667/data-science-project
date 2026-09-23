@@ -1,0 +1,100 @@
+{
+  "test_accuracy": 0.5308,
+  "test_loss": 0.7814,
+  "precision": 0.4383,
+  "recall": 0.5308,
+  "f1_score": 0.4673,
+  "classification_report": {
+    "Apple_Black_Rot": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "Apple_Healthy": {
+      "precision": 0.2857142857142857,
+      "recall": 0.2,
+      "f1-score": 0.23529411764705882,
+      "support": 10.0
+    },
+    "Apple_Scab": {
+      "precision": 0.46153846153846156,
+      "recall": 0.6,
+      "f1-score": 0.5217391304347826,
+      "support": 10.0
+    },
+    "Corn_Common_Rust": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "Corn_Healthy": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Potato_Early_Blight": {
+      "precision": 0.47368421052631576,
+      "recall": 0.9,
+      "f1-score": 0.6206896551724138,
+      "support": 10.0
+    },
+    "Potato_Healthy": {
+      "precision": 0.2631578947368421,
+      "recall": 0.5,
+      "f1-score": 0.3448275862068966,
+      "support": 10.0
+    },
+    "Potato_Late_Blight": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Tomato_Early_Blight": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 10.0
+    },
+    "Tomato_Healthy": {
+      "precision": 0.2857142857142857,
+      "recall": 0.4,
+      "f1-score": 0.3333333333333333,
+      "support": 10.0
+    },
+    "Tomato_Late_Blight": {
+      "precision": 0.5,
+      "recall": 1.0,
+      "f1-score": 0.6666666666666666,
+      "support": 10.0
+    },
+    "Tomato_Leaf_Spot": {
+      "precision": 0.42857142857142855,
+      "recall": 0.3,
+      "f1-score": 0.35294117647058826,
+      "support": 10.0
+    },
+    "Tomato_Powdery_Mildew": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 10.0
+    },
+    "accuracy": 0.5307692307692308,
+    "macro avg": {
+      "precision": 0.43833696667704763,
+      "recall": 0.5307692307692308,
+      "f1-score": 0.46734551276398,
+      "support": 130.0
+    },
+    "weighted avg": {
+      "precision": 0.4383369666770476,
+      "recall": 0.5307692307692308,
+      "f1-score": 0.46734551276398,
+      "support": 130.0
+    }
+  }
+}

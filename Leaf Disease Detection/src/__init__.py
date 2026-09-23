@@ -1,0 +1,3 @@
+"""
+Leaf Disease Detection Package
+"""
